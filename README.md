@@ -9,7 +9,7 @@
 
 ### 1️⃣ [TP1 : Monolith Ecommerce](https://github.com/elfahmiibtissam076-hash/TP1-Monolith-Ecommerce)
 * **Description :** Création d'une application e-commerce monolithique avec Spring Boot.
-* **Rapport :** ⏳ *En cours de rédaction (Sera ajouté prochainement)*
+* **Rapport :** 📄 [Consulter le Rapport TP1](https://github.com/elfahmiibtissam076-hash/TP1-Monolith-Ecommerce/blob/main/Rapport_TP1.pdf)
 
 ### 2️⃣ [TP2 : Ecommerce Monolith Enhanced](https://github.com/elfahmiibtissam076-hash/ecommerce_monolith_TP2)
 * **Description :** Amélioration du monolithe et ajout de nouvelles fonctionnalités.
